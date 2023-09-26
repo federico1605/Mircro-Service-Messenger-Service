@@ -1,0 +1,4 @@
+spring:
+  sendgrid:
+    api-key: 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
+email: fede.zapata16@gmail.com
